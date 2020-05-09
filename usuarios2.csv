@@ -1,0 +1,3 @@
+firstname,lastname,username,password,ou
+Elpi,Yuelo,UsuarioT1,Testeo,"OU=Aislados,DC=asxt04,DC=local"
+Keko,Jines,UsuarioT2,Testeo,"OU=Aislados,DC=asxt04,DC=local"
